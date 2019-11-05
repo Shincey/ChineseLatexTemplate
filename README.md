@@ -40,5 +40,4 @@ Tex语法可以参见`template.tex`中的示例，或者直接谷歌搜索如何
 
 ## 示例
 
-这里是用这个模板编出来的一个pdf文档，[点击查看](https://github.com/Shincey/ChineseLatexTemplate/blob/master/template1/template.pdf?1553787236768)
-
+这里是用这个模板编出来的一个pdf文档，[点击查看](https://github.com/Shincey/ChineseLatexTemplate/blob/master/mac_template/template.pdf)
