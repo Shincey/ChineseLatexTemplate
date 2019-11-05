@@ -1,6 +1,6 @@
-# Chinese Latex Template
+#  Chinese Latex Template
 
-![](https://img.shields.io/badge/platform-linux%20%7C%20osx%20%7C%20win-lightgrey)![](https://img.shields.io/badge/language-Tex-yellowgreen.svg)![GitHub repo size](https://img.shields.io/github/repo-size/Shincey/ChineseLatexTemplate)![GitHub](https://img.shields.io/github/license/Shincey/ChineseLatexTemplate)
+![](https://img.shields.io/badge/platform-linux%20%7C%20osx%20%7C%20win-lightgrey)	![](https://img.shields.io/badge/language-Tex-yellowgreen.svg)	![GitHub repo size](https://img.shields.io/github/repo-size/Shincey/ChineseLatexTemplate)	![GitHub](https://img.shields.io/github/license/Shincey/ChineseLatexTemplate)
 
 
 
